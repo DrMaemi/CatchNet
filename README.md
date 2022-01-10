@@ -1,4 +1,10 @@
 # i-mind-net
+## Official Demo
+<div align='center'>
+
+  [![YouTube](https://img.youtube.com/vi/VDkS72N5ALQ/0.jpg)](https://youtu.be/VDkS72N5ALQ)
+</div>
+
 <p>
 
   <div align='center'>
