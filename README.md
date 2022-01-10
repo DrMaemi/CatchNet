@@ -1,10 +1,13 @@
 # i-mind-net
+소프트웨어 마에스트로 12기 i-mind팀 - 서비스 i-mind의 핵심 AI 파이프라인
+
 ## Official Demo
 <div align='center'>
 
-  [![YouTube](https://img.youtube.com/vi/VDkS72N5ALQ/0.jpg)](https://youtu.be/VDkS72N5ALQ)
+  [![YouTube](https://img.youtube.com/vi/VDkS72N5ALQ/0.jpg)](https://youtu.be/VDkS72N5ALQ)<br>[YouTube](https://youtu.be/VDkS72N5ALQ)
 </div>
 
+<br>
 <p>
 
   <div align='center'>
@@ -16,10 +19,6 @@
   <div align='center'>
     <img src="https://drive.google.com/uc?export=view&id=1lhTuuC3Vzx-BXi4RfQFjYhWsO-FlP7o8" alt="">
   </div>
-</p>
-
-  <div align='center'>소프트웨어 마에스트로 12기 i-mind팀 - 서비스 i-mind의 핵심 AI 파이프라인</div>
-</p>
 
 ## 소개
 i-mind-net은 서비스 i-mind에서 영상을 입력받으면 영상 내 객체 별 행동과 표정(감정) 정보를 메타데이터로 추출하는 기능을 수행합니다. 해당 데이터를 통해 영상 내 등장했던 객체를 구별하여 어느 시간대에 어떤 행동과 감정을 가졌는지 등을 알 수 있습니다.
